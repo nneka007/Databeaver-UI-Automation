@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "http://23.22.151.143/",
+    "ignoreTestFiles" : "**/2-advanced-examples/*",
+    "viewportHeight" : 1080,
+    "viewportWidth" : 1920
+}
